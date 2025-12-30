@@ -8,7 +8,10 @@
     ],
     "states": {
         "catwalk": {
-            "enabled": false
+            "enabled": true
+        },
+        "fancy-audiovisualizer": {
+            "enabled": true
         }
     },
     "version": 1
